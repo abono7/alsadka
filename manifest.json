@@ -1,0 +1,22 @@
+{
+  "name": "تطبيق الصفحة - صفحة اختبار",
+  "short_name": "صفحة اختبار",
+  "description": "تطبيق PWA لصفحة اختبار على مدونة بلوجر.",
+  "icons": [
+    {
+      "src": "page-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "page-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "orientation": "portrait-primary"
+}
